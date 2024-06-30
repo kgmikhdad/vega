@@ -1,2 +1,2 @@
 streamlit==1.21.0
-streamlit_vega_lite==0.1.2
+streamlit_vega_lite==0.1.0
